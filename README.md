@@ -28,5 +28,5 @@ Os módulos estudados incluem:
 ## Links  
 
 - [Repositório Oficial do Curso](https://github.com/balta-io/2801)  
-- [Certificado de Conclusão]()
-- [Minhas anotações do curso]() 
+- [Certificado de Conclusão](https://github.com/moreira-and/fundamentos-csharp/blob/main/CertificadoDeConclusaoFundamentosCsharpBaltaIo.pdf)
+- [Minhas anotações do curso](https://github.com/moreira-and/fundamentos-csharp/blob/main/MinhasAnotacoesFundamentosDoCsharp.pdf) 
