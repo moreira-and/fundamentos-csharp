@@ -20,16 +20,16 @@ Este curso ensina os conceitos da Clean Architecture aplicados no desenvolviment
 
 ```
 software-engineer-first-steps/
-├── fundamentos-csharp/
+├── S0-fundamentos-csharp/
 │   ├── anotacoes/
 │   └── projetos/
-├── solid-principles/
+├── S1-solid-principles/
 │   ├── anotacoes/
 │   └── desafios/
-├── design-patterns/
+├── S2-design-patterns/
 │   ├── anotacoes/
 │   └── implementacoes/
-└── clean-architecture/
+└── S3-clean-architecture/
     ├── anotacoes/
     └── projetos/
 ```
