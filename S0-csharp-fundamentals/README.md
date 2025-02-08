@@ -6,10 +6,10 @@ Este repositório contém anotações e projetos desenvolvidos durante meu **apr
 
 Os seguintes projetos foram desenvolvidos para praticar conceitos fundamentais:  
 
-- **Calculadora Console** – Implementação das quatro operações básicas (+, -, *, /).  
-- **Cronômetro** – Utilização de funções, `Thread` e `Sleep` para criar um cronômetro em console.  
-- **Editor de Textos em Console** – Manipulação de arquivos, controle de fluxo e processamento de inputs do teclado.  
-- **Editor de HTML em Console** – Processamento básico de strings e implementação de um parser simples.  
+- [**Calculadora Console**](/S0-csharp-fundamentals/AppCalculadura/) – Implementação das quatro operações básicas (+, -, *, /).  
+- [**Cronômetro**](/S0-csharp-fundamentals/AppCronometro/) – Utilização de funções, `Thread` e `Sleep` para criar um cronômetro em console.  
+- [**Editor de Textos em Console**](/S0-csharp-fundamentals/AppEditorDeTexto/) – Manipulação de arquivos, controle de fluxo e processamento de inputs do teclado.  
+- [**Editor de HTML em Console**](/S0-csharp-fundamentals/AppEditorHTML/) – Processamento básico de strings e implementação de um parser simples.  
 
 ## Conteúdo Teórico  
 
