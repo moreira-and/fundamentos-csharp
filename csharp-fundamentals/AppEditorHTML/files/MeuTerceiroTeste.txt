@@ -1,0 +1,2 @@
+Teste 3
+ou verificar se tem um <strong>STRONG</strong> no texto.
