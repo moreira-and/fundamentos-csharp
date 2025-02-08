@@ -1,7 +1,3 @@
-Claro! Aqui está um README sugerido para o repositório `software-engineer-first-steps`:
-
----
-
 # Software Engineer First Steps
 
 Bem-vindo ao repositório `software-engineer-first-steps`! Este repositório é dedicado ao meu aprendizado e evolução na carreira de Engenharia de Software. Aqui, você encontrará os materiais e códigos relacionados aos cursos que estou realizando para aprimorar minhas habilidades em C# e arquitetura de software.
